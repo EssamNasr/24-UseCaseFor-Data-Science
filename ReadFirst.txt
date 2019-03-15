@@ -1,0 +1,3 @@
+to render files if there is aproblem in github
+use this website:
+https://nbviewer.jupyter.org/
